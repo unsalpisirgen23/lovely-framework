@@ -2,7 +2,10 @@
     "name": "lovely/framework",
     "description": "lovely Framework",
     "license": "MIT",
+    "type": "library",
+    "keywords": ["m-s", "crud", "Crud-Generator"],
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "unsal pisirgen",
