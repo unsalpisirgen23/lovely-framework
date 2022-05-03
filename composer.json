@@ -1,0 +1,17 @@
+{
+    "name": "lovely/framework",
+    "description": "lovely Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "unsal pisirgen",
+            "email": "unsalpisirgen23@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lovely\\Framework\\":"src/"
+        }
+    }
+}
