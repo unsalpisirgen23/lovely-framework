@@ -2,7 +2,7 @@
     "name": "lovely/framework",
     "description": "lovely Framework",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "unsal pisirgen",
